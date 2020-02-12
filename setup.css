@@ -41,3 +41,9 @@ h1{
 h3{
     padding: 0.5em;
 }
+.weather{
+    background-image: url(https://images.unsplash.com/photo-1576017342182-a98bb4ee3fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
