@@ -1,0 +1,43 @@
+.wrapper{
+    display:flex;
+    margin: 100px;
+    width: 75%;
+
+    
+}
+
+body{
+    font-family: sans-serif;
+    color:#2F3C7E;
+    background-color: #FBEAEB;
+}
+
+.box{
+    width: 100%;
+    text-align:center;
+}
+#search {
+    margin: 0 auto;
+    display: inline-block;
+    border-radius: .5em;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#2F3C7E;
+}
+h1{
+    text-align:center;
+    font-family: 'Cinzel', serif;
+}
+.results{
+    text-align: center;
+}
+#button{
+    border-radius: .5em;
+    background-color:#2F3C7E ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FBEAEB;
+}
+
+h3{
+    padding: 0.5em;
+}
